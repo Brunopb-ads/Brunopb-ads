@@ -24,31 +24,13 @@
   </a>
 </p>
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/Brunopb-ads">donating</a> to support the original creator!</p>
 
-> [!CAUTION]
-> **This repository is no longer maintained. Please use the successor project [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) instead! GitHub Stats Extended is an actively maintained fork of this repository with additional features and improved stability. Alternatively you can also use [GitHub Readme Stats Action](https://github.com/stats-organization/github-readme-stats-action).**
-
-<details>
-<summary>Click here to view the outdated documentation. Kept for reference only.</summary>
 
 <br>
 
-<p align="center">
-  <a href="#all-demos">View Demo</a>
-  ·
-  <a href="https://github.com/Brunopb-ads/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
-  ·
-  <a href="https://github.com/Brunopb-ads/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
-  ·
-  <a href="https://github.com/Brunopb-ads/github-readme-stats/discussions/1770">FAQ</a>
-  ·
-  <a href="https://github.com/Brunopb-ads/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3200&pause=800&color=5FABEE&background=03031400&center=true&size=24&vCenter=true&width=870&lines=Hello+World!;I%27m+Bruno+Pereira" alt="Presentation text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3200&pause=800&color=5FABEE&background=03031400&center=true&size=24&vCenter=true&width=870&lines=Hello+World!;I%27m+Ana+Lorens" alt="Presentation text" />
   </a>
 </h1>
 
@@ -258,5 +240,6 @@ src="https://spotify-github-profile.kittinanx.com/api/view?uid=umk3dfbj21o1b6a6a
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
+
 
 
