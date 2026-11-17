@@ -2,10 +2,6 @@
 
 ![banner](github-header-banner.png)
 
-<p align="center">
-  <a href="https://github.com/Brunopb-ads/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/Brunopb-ads/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
   <a href="https://github.com/Brunopb-ads/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Brunopb-ads/github-readme-stats" />
   </a>
