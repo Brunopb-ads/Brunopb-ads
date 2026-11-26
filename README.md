@@ -138,6 +138,16 @@ Me chamo Bruno Pereira Barros, tenho 19 anos, sou natural de Belo Horizonte Mina
 
 
 
+## 📚 Portfólio Acadêmico - Mentoria de Carreira
 
+Este portfólio foi desenvolvido durante o curso de Ciência de Dados e Inteligência Artificial da PUC Minas e reúne minha trajetória acadêmica, competências, projetos e objetivos profissionais.
 
-[ACESSE O MEU PORTIFÓLIO PARA MAIS INFORMAÇÕES](https://github.com/Brunopb-ads/Brunopb-ads/blob/main/Projetos.md)
+### Seções
+
+- [🎓 Trajetória Acadêmica](./TRAJETORIA_ACADEMICA.md)
+- [🛠 Competências e Habilidades](./COMPETENCIAS.md)
+- [📂 Projetos e Atividades](./PROJETOS.md)
+- [🎯 Objetivos Profissionais](./OBJETIVOS_PROFISSIONAIS.md)
+- [🚀 Plano de Desenvolvimento](./PLANO_DESENVOLVIMENTO.md)
+- [📝 Reflexão Final](./REFLEXAO_FINAL.md)
+
