@@ -118,4 +118,22 @@ Me chamo Bruno Pereira Barros, tenho 19 anos, sou natural de Belo Horizonte Mina
 <a href="https://www.linkedin.com/in/bruno-pereira-barros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div> 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Brunopb-ads/Brunopb-ads/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Brunopb-ads/Brunopb-ads/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Brunopb-ads/Brunopb-ads/output/github-snake.svg"
+  />
+</picture>
+
 </p>
+
+
+
