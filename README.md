@@ -1,6 +1,7 @@
-# 👨🏻‍💻 Bruno Pereira Barros
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/014f1422-d52c-48cd-8c9a-de1c20eeb7c1" />
 
-**`Estudante de Ciencia de Dados`**
+
+
 
 Me chamo Bruno Pereira Barros, tenho 19 anos, sou natural de Belo Horizonte Minas gerais, Sou formado em Redes de Computadores pelo SENAI. Atualmente estou cursando Ciência de dados e Inteligencio artificial pela PUC Minas Possuo experiência prática em infraestrutura de TI, suporte técnico, administração de redes, servidores Windows, Active Directory, GPOs, firewalls, suporte ao ecossistema Microsoft 365. Tenho certificações CCNA: Introduction to Networks e Cybersecurity, além de conhecimentos em Python, C#, CSS, HTML, CSS e Flutter. Sou apaixonado por tecnologia, aprendizado contínuo e pela busca de soluções eficientes, com foco em infraestrutura, automação, segurança da informação e inovação.
 
